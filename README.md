@@ -23,11 +23,11 @@
 
 | 주차 | 미션 | Repository | PR |
 |:---:|:---|:---:|:---:|
-| 1주차 | 문자열 덧셈 계산기 | [바로가기]() | [PR]() |
-| 2주차 | 자동차 경주 | [바로가기]() | [PR]() |
-| 3주차 | 로또 | [바로가기]() | [PR]() |
+| 1주차 | 문자열 덧셈 계산기 | [바로가기](https://github.com/soohyun1904/java-calculator-8/tree/soohyun1904) | [PR](https://github.com/woowacourse-precourse/java-calculator-8/pull/910) |
+| 2주차 | 자동차 경주 | [바로가기](https://github.com/soohyun1904/java-racingcar-8/tree/soohyun1904) | [PR](https://github.com/woowacourse-precourse/java-racingcar-8/pull/40) |
+| 3주차 | 로또 | [바로가기](https://github.com/soohyun1904/java-lotto-8/tree/soohyun1904) | [PR](https://github.com/woowacourse-precourse/java-lotto-8/pull/275) |
 | 4~5주차 | 오픈 미션 | [바로가기]() | [PR]() |
-| 최종 | 최종 코딩 테스트 | [바로가기]() | [PR]() |
+| 최종 | 최종 코딩 테스트 | [바로가기](https://github.com/soohyun1904/java-planetlotto-8/tree/soohyun1904) | [PR](https://github.com/woowacourse-precourse/java-planetlotto-8/pull/88) |
 
 <br/>
 
@@ -46,12 +46,12 @@
 
 | 미션 | 단계 | Repository | PR | 페어 |
 |:---|:---:|:---:|:---:|:---:|
-| 자동차 경주 | 1단계 | [바로가기]() | [PR]() | - |
-| | 2단계 | | [PR]() | - |
-| 로또 | 1단계 | [바로가기]() | [PR]() | - |
+| 사용자가 있는 Gemini 웹앱 출시하기 | 1단계 | [바로가기](https://github.com/soohyun1904/gemini-canvas-mission/tree/soohyun1904) | [PR](https://github.com/woowacourse/gemini-canvas-mission/pull/47) | @yj9107v |
 | | 2단계 | | [PR]() | - |
 | 블랙잭 | 1단계 | [바로가기]() | [PR]() | - |
-| | 2단계 | | [PR]() | - |
+| | 3단계 | | [PR]() | - |
+| 블랙잭-상태패턴 | 1단계 | [바로가기]() | [PR]() | - |
+| | 4단계 | | [PR]() | - |
 | 체스 | 1~3단계 | [바로가기]() | [PR]() | - |
 | | 4~5단계 | | [PR]() | - |
 
