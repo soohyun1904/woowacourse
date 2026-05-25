@@ -47,18 +47,17 @@
 | 미션 | 단계 | Repository | PR | 페어 |
 |:---|:---:|:---:|:---:|:---:|
 | 사용자가 있는 Gemini 웹앱 출시하기 | 1단계 | [바로가기](https://github.com/soohyun1904/gemini-canvas-mission/tree/soohyun1904) | [PR](https://github.com/woowacourse/gemini-canvas-mission/pull/47) | @yj9107v |
-| | 2단계 | | [PR]() | - |
-| 블랙잭 | 1단계 | [바로가기]() | [PR]() | - |
-| | 3단계 | | [PR]() | - |
-| 블랙잭-상태패턴 | 1단계 | [바로가기]() | [PR]() | - |
-| | 4단계 | | [PR]() | - |
-| 체스 | 1~3단계 | [바로가기]() | [PR]() | - |
-| | 4~5단계 | | [PR]() | - |
+| 블랙잭 | 1단계 | [바로가기](https://github.com/soohyun1904/java-blackjack/tree/step1) | [PR](https://github.com/woowacourse/java-blackjack/pull/1008) | @dahxxn |
+| 블랙잭 | 2단계 | [바로가기](https://github.com/soohyun1904/java-blackjack/tree/step2)| [PR](https://github.com/woowacourse/java-blackjack/pull/1125) | - |
+| 블랙잭-상태패턴 | 선택미션 | [바로가기](https://github.com/soohyun1904/java-blackjack/tree/blackjack-state-pattern) | [PR](https://github.com/soohyun1904/java-blackjack/pull/1) | - |
+| 장기 | 1단계 | [바로가기](https://github.com/soohyun1904/java-janggi/tree/step1) | [PR](https://github.com/woowacourse/java-janggi/pull/219) | @JYL35 |
+| 장기 | 2단계 | [바로가기](https://github.com/soohyun1904/java-janggi/tree/step2) | [PR](https://github.com/woowacourse/java-janggi/pull/348) | - |
+| 요구사항에 질문하기 | - | 개인적으로 다시 정리 후 작성| | - |
 
 ### 📝 글쓰기 미션
 | 레벨 | 주제 | PR |
 |:---:|:---|:---:|
-| 레벨 1 | 우아한테크코스 한 달 생활기 | [PR]() |
+| 레벨 1 | 레벨 1 전엔 몰랐던 나의 한 가지 | [PR](https://github.com/woowacourse/woowa-writing/pull/1152) |
 
 <br/>
 
